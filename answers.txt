@@ -1,1 +1,2 @@
 1. They are responsible for prioritizing and overseeing the teams tasks.
+2. The Scrum Master interacts with the team by facilitating the Scrum process, removing any impediments, and helping the team work productively. The Product Owner interacts with the team by providing feedback on the product, helping with requirements, and prioritizing the product backlog.
